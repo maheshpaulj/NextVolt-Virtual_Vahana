@@ -2,7 +2,8 @@
 
 **Institution:** SRM Institute of Science and Technology, Kattankulathur
 **Competition:** Virtual Vahana 2026 (Phase 1: Safety-first ADAS + Assisted Driving Systems)  
-**Simulator:** CARLA 0.9.x  
+**Simulator:** CARLA 0.9.11
+**Team Name:** NextVolt
 
 ---
 
