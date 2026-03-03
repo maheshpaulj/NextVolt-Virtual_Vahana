@@ -25,7 +25,7 @@
 
 This repository contains our Phase 1 submission for the Virtual Vahana 2026 competition. We have developed a "safety-first" Advanced Driver-Assistance System (ADAS) using the CARLA Python API. 
 
-![dashboard_image](/4.Images/dashboard_1.jpeg)
+![dashboard_image](/4_Images/dashboard_1.jpeg)
 
 Our system operates on a Level 2 autonomy paradigm where active safety overrides convenience. The core architecture fuses data from Semantic LiDAR, Raycast, and Radar sensors to provide reliable environmental awareness while filtering out "ghost" readings. 
 
