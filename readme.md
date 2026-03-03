@@ -76,6 +76,15 @@ All mandatory deliverables for Stage 1 evaluation are included in this repositor
     python adas.py
     ```
 
+4. **NPC Spawning:**
+    Open a **separate terminal** and start the helper script to spawn non-player
+    characters. For example, to add 50 NPCs and 20 Pedestrains:
+    ```bash
+    python spawn_npc.py -n 50 -w 20
+    ```
+    This can help with traffic testing during the demo.
+
+
 
 
 ### 🎮 Keyboard Controls (For Judges & Testers)
